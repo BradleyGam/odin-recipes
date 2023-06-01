@@ -1,0 +1,72 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+ol,
+ul,
+li,
+.description-div,
+.column {
+    background-color: aliceblue;
+}
+
+ul,
+ol,
+.description-div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid black
+}
+
+div.go-back {
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.description-div {
+    text-align: center;
+}
+
+body p {
+    text-align: center;
+}
+
+div p {
+    background-color: inherit;
+}
+
+p strong {
+    background-color: inherit;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    border: 1px solid black;
+}
+
+.recipe-link {
+    color: black;
+    font-size: 24px;
+    background-color: inherit;
+}
